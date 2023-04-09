@@ -1,0 +1,1 @@
+Practices learned from code with mosh on youtube
